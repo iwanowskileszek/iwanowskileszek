@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iwanowskileszek
 - 👀 I’m interested in computer science, creating computer games, in particular serious games.
-- 🌱 I’m currently learning Jagiellonian University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-maiul: iwanowskileszek@gmail.com or phone: +48 510 061 822
 
